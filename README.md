@@ -21,4 +21,5 @@ The Bike Buyers Dataset sourced from Kaggle provides comprehensive data on custo
 ![bikeanalysis](https://github.com/Gayatrijadhav30/Excel_Project---Bike_Sales/assets/147386271/fa7053af-3a8d-4a39-b671-f9b8e1bd92b1)
 
 ## Dataset
+[Excel Project Dataset (1).xlsx](https://github.com/Gayatrijadhav30/Excel_Project---Bike_Sales/files/14611721/Excel.Project.Dataset.1.xlsx)
 
